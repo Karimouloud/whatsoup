@@ -162,7 +162,7 @@ const InputContainer = styled.form`
 `;
 const Header = styled.div`
   position: sticky;
-  bacground-color: white;
+  background-color: white;
   z-index: 10;
   top: 0;
   display: flex;
